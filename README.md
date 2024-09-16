@@ -1,5 +1,7 @@
 # BeyondKerrQNM
-This repository provides the modifications to the Teukolsky equation and to the Kerr quasinormal mode frequencies due to higher-derivative corrections. It contains the following folders:
+This repository provides the modifications to the Teukolsky equation and to the Kerr quasinormal mode frequencies due to higher-derivative corrections, associated to the paper https://arxiv.org/abs/2409.04517
+ 
+ It contains the following folders:
 
 -Potentials: files with the analytic correction to the Teukolsky potential
 
